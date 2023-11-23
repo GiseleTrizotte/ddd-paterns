@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/assets/img/full.jpeg" width="600px"></h1>
+<h1 align="center"><img src="/assets/img/full.jpeg" width="100px"></h1>
 
 <h3 align="center">DDD - Modelagem Tática e Patterns</h3>
 
