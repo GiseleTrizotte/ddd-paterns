@@ -1,4 +1,4 @@
-import Address from "./address.valueObject";
+import Address from "../value-object/address.valueObject";
 import Customer from "./customer";
 
 describe("Customer unit tests", () => {
